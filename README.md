@@ -10,12 +10,22 @@ This is the collection of setup files and documentation for the JupyterHub assoc
 ### Server setup instructions
 
 1) Setup the instance using these instructions - https://tljh.jupyter.org/en/latest/install/amazon.html
-	a) Ubuntu 18.04
-	b) Any size (I'm using m6i.32xlarge for metagenomics)
-	c) Paste startup script from the link
-		- You can add --show-progress-page for extra setup guidance
-	d) Add storage
-	e) Set open HTTP/HTTPS access
+	
+	a. Ubuntu 18.04
+	
+	b. Any size (I'm using m6i.32xlarge for metagenomics)
+	
+	c. Paste startup script from the link above
+	
+```bash
+#!/bin/bash
+curl -L https://tljh.jupyter.org/bootstrap.py \
+| sudo python3 - \
+--admin <admin-user-name>
+```
+	d. Add storage
+
+	e. Set open HTTP/HTTPS access
 
 2) Log in to EC2 instance (NOT THE JUPYTERHUB) and run 'cloudwatch-setup.sh'
 
