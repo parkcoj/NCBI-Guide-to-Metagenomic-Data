@@ -15,13 +15,13 @@ This is the collection of setup files and documentation for the JupyterHub assoc
 	
 	b. Any size (I'm using m6i.32xlarge for metagenomics)
 	
-	c. Paste startup script from the link above
+	c. Paste startup script from the link above **AND CHANGE THE ADMIN VALUE IN THE CODE**
 	
 ```bash
 #!/bin/bash
 curl -L https://tljh.jupyter.org/bootstrap.py \
 | sudo python3 - \
---admin <admin-user-name>
+--admin <admin-user-name> --show-progress-page
 ```
 	d. Add storage
 
