@@ -29,3 +29,5 @@ cd /etc/skel
 sudo ln -s /srv/programs/ncbi-magicblast-1.6.0/bin/magicblast .
 sudo ln -s /srv/programs/ncbi-blast-2.12.0+/bin/blastdbcmd .
 sudo ln -s /srv/data/16S_ribosomal_RNA/ 16S_ribosomal_RNA
+
+sudo tljh-config reload
