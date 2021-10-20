@@ -32,6 +32,13 @@ curl -L https://tljh.jupyter.org/bootstrap.py \
 3) Log in as Admin to JupyterHub and open a fresh terminal
 	Run the script 'tljh-config.sh'
 
+4) Send users to https://jupyterhub01.ncbi.nlm.nih.gov/hub?next=%2Fuser-redirect%2Fgit-pull?repo%3Dhttps%253A%252F%252Fgithub.com%252Fparkcoj%252FNCBI-Guide-to-Metagenomic-Data%26branch%3Dmain%26urlpath%3Dtree%252FNCBI-Guide-to-Metagenomic-Data%252Fmetagenome_exercises.ipynb to clone repo and open the notebook.
+
+
+### Asynchronous Instructions (if you're here outside of a workshop offering)
+
+Use Binder to access the materials outside of the workshop. 
+
 
 ### File descriptions
 
