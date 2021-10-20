@@ -5,10 +5,10 @@ mkdir -p /srv/{data,programs}/
 cd /srv/programs/
 
 curl -o magicblast.tar.gz https://ftp.ncbi.nlm.nih.gov/blast/executables/magicblast/LATEST/ncbi-magicblast-1.6.0-x64-linux.tar.gz
-tar -xvzf magicblast.tar.gz && sudo chmod -R 755 ncbi-magicblast-1.6.0/
+tar -xvzf magicblast.tar.gz && chmod -R 755 ncbi-magicblast-1.6.0/
 
 curl -o blast.tar.gz https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.12.0+-x64-linux.tar.gz
-tar -xvzf blast.tar.gz && sudo chmod -R 755 ncbi-blast-2.12.0+
+tar -xvzf blast.tar.gz && chmod -R 755 ncbi-blast-2.12.0+
 
 # Download 16S RefSeq database
 cd /srv/data/
