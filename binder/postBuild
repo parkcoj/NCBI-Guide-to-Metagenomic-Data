@@ -18,7 +18,8 @@ mv 16S_ribosomal_RNA.* 16S_ribosomal_RNA/
 # Install Krona
 git clone https://github.com/marbl/Krona.git
 cd Krona/KronaTools/
-./install.pl 
+mkdir ./bin ./tax_data
+./install.pl --prefix ./bin --taxonomy ./tax_data
 ./updateTaxonomy.sh
 ./updateAccessions.sh
 cd ~/
