@@ -5,7 +5,7 @@ curl -o magicblast.tar.gz https://ftp.ncbi.nlm.nih.gov/blast/executables/magicbl
 tar -xvzf magicblast.tar.gz && chmod -R 755 ncbi-magicblast-1.6.0/
 ln -s ncbi-magicblast-1.6.0/bin/magicblast .
 
-curl -o blast.tar.gz https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.12.0+-x64-linux.tar.gz
+curl -o blast.tar.gz https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.13.0+-x64-linux.tar.gz
 tar -xvzf blast.tar.gz && chmod -R 755 ncbi-blast-2.12.0+
 ln -s ncbi-blast-2.12.0+/bin/blastdbcmd .
 
