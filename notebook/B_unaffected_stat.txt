@@ -1,0 +1,168 @@
+#tax_id	#name	#total_count
+131567	cellular organisms	1273
+2	Bacteria	1238
+1224	Proteobacteria	247
+28216	Betaproteobacteria	64
+206351	Neisseriales	27
+481	Neisseriaceae	19
+1193515	Snodgrassella	3
+1196083	Snodgrassella alvi	3
+1196094	Snodgrassella alvi wkB2	3
+59	Vitreoscilla	2
+61	Vitreoscilla stercoraria	1
+32257	Kingella	1
+1522312	Kingella negevensis	1
+1499392	Chromobacteriaceae	1
+57479	Microvirgula	1
+1817962	Microvirgula curvata	1
+80840	Burkholderiales	12
+119060	Burkholderiaceae	5
+1827195	Caballeronia	2
+1071679	Caballeronia grimmiae	1
+1458357	Caballeronia jiangsuensis	1
+106589	Cupriavidus	2
+68895	Cupriavidus basilensis	2
+1822464	Paraburkholderia	1
+1462993	Paraburkholderia ginsengiterrae	1
+506	Alcaligenaceae	3
+222	Achromobacter	2
+106146	Pelistega	1
+106147	Pelistega europaea	1
+224471	Burkholderiales genera incertae sedis	1
+92793	Aquabacterium	1
+70582	Aquabacterium citratiphilum	1
+75682	Oxalobacteraceae	1
+149698	Massilia	1
+1949069	Massilia buxea	1
+1236	Gammaproteobacteria	38
+91347	Enterobacterales	7
+543	Enterobacteriaceae	5
+570	Klebsiella	1
+573	Klebsiella pneumoniae	1
+590	Salmonella	1
+28901	Salmonella enterica	1
+59203	Salmonella enterica subsp. arizonae	1
+1330546	Pluralibacter	1
+81476	Pluralibacter pyrinus	1
+1903414	Morganellaceae	1
+29487	Photorhabdus	1
+1903409	Erwiniaceae	1
+53335	Pantoea	1
+553	Pantoea ananatis	1
+135613	Chromatiales	2
+2035710	Thioalkalibacteraceae	2
+2035712	Guyparkeria	2
+47960	Guyparkeria halophila	2
+135625	Pasteurellales	1
+712	Pasteurellaceae	1
+908284	Necropsobacter	1
+908285	Necropsobacter rosorum	1
+135619	Oceanospirillales	1
+224372	Alcanivoracaceae	1
+863253	Marinicella	1
+135622	Alteromonadales	1
+118969	Legionellales	1
+444	Legionellaceae	1
+445	Legionella	1
+28085	Legionella cincinnatiensis	1
+72274	Pseudomonadales	1
+503006	Pseudomonadales incertae sedis	1
+290	Pseudomonas carboxydohydrogena	1
+28211	Alphaproteobacteria	7
+204457	Sphingomonadales	2
+41297	Sphingomonadaceae	2
+165696	Novosphingobium	1
+1737443	Novosphingobium fontis	1
+2709685	Parasphingorhabdus	1
+356	Rhizobiales	1
+31993	Methylocystaceae	1
+160700	Albibacter	1
+119025	Albibacter helveticus	1
+766	Rickettsiales	1
+775	Rickettsiaceae	1
+33988	Rickettsieae	1
+780	Rickettsia	1
+114277	spotted fever group	1
+121193	Rickettsia hulinii	1
+1783272	Terrabacteria group	52
+1239	Firmicutes	27
+91061	Bacilli	13
+1385	Bacillales	8
+186817	Bacillaceae	5
+2675234	Alkalihalobacillus	1
+582442	Alkalihalobacillus hemicentroti	1
+150247	Anoxybacillus	1
+576944	Anoxybacillus tengchongensis	1
+485576	Aquisalibacillus	1
+485577	Aquisalibacillus elongatus	1
+29395	Saccharococcus	1
+29396	Saccharococcus thermophilus	1
+351195	Salimicrobium	1
+50717	Salimicrobium album	1
+186826	Lactobacillales	2
+33958	Lactobacillaceae	1
+2767888	Liquorilactobacillus	1
+238015	Liquorilactobacillus vini	1
+81852	Enterococcaceae	1
+1350	Enterococcus	1
+53346	Enterococcus mundtii	1
+909932	Negativicutes	2
+909929	Selenomonadales	2
+1843490	Sporomusaceae	2
+365348	Pelosinus	2
+365349	Pelosinus fermentans	2
+1122947	Pelosinus fermentans DSM 17108	2
+186801	Clostridia	1
+201174	Actinobacteria	6
+1760	Actinobacteria	6
+85012	Streptosporangiales	1
+2004	Streptosporangiaceae	1
+321315	Sphaerisporangium	1
+1441875	Sphaerisporangium corydalis	1
+85009	Propionibacteriales	1
+31957	Propionibacteriaceae	1
+85011	Streptomycetales	1
+2062	Streptomycetaceae	1
+1883	Streptomyces	1
+36818	Streptomyces subrutilus	1
+1297	Deinococcus-Thermus	1
+188787	Deinococci	1
+118964	Deinococcales	1
+183710	Deinococcaceae	1
+1298	Deinococcus	1
+508458	Synergistetes	1
+649775	Synergistia	1
+649776	Synergistales	1
+649777	Synergistaceae	1
+508459	Cloacibacillus	1
+1197717	Cloacibacillus porcorum	1
+2759	Eukaryota	4
+33154	Opisthokonta	3
+33208	Metazoa	3
+6072	Eumetazoa	3
+33213	Bilateria	3
+33511	Deuterostomia	3
+7711	Chordata	3
+89593	Craniata	3
+7742	Vertebrata	3
+7776	Gnathostomata	3
+117570	Teleostomi	3
+117571	Euteleostomi	3
+8287	Sarcopterygii	3
+1338369	Dipnotetrapodomorpha	3
+32523	Tetrapoda	3
+32524	Amniota	3
+40674	Mammalia	3
+32525	Theria	3
+9347	Eutheria	3
+1437010	Boreoeutheria	3
+314146	Euarchontoglires	3
+9443	Primates	3
+376913	Haplorrhini	3
+314293	Simiiformes	3
+9526	Catarrhini	3
+314295	Hominoidea	3
+9604	Hominidae	3
+207598	Homininae	3
+9605	Homo	2
+9606	Homo sapiens	2
