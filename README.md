@@ -12,7 +12,7 @@ Here for the live workshop? To get another copy of the materials in your directo
 
 Use Binder to access the materials outside of the workshop. 
 
-Binder's initial setup may take several minutes to launch. Do not refresh the page or the process will restart.
+Binder's initial setup will take several minutes to launch. Do not refresh the page or the process will restart.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/parkcoj/NCBI-Guide-to-Metagenomic-Data/main?labpath=notebook/metagenome_exercises.ipynb)
 
